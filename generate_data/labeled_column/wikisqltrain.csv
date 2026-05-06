@@ -1,0 +1,271 @@
+db,column,LOC,LOC_sub,CAT,CAT_sub,CAN_ques,time
+1-10054296-1,Headquarters,v,v,,,,
+1-1009087-1,Season premiere,,,v,,v,v
+,Season finale,,,v,,v,v
+1-1013129-10,Nationality,v,,,,,
+1-1036189-1,Bullet Tip Color,,,v,,,
+1-10577579-3,Location,v,v,,,,
+1-10577579-2,Location,v,v,,,,
+1-10581768-2,Location,v,,,,,
+1-1067134-1,Region 2,,,v,,v,v
+1-10819266-8,Season finale,,,v,,v,v
+,Season premiere,,,v,,v,v
+,Rank,,,v,,,
+1-10818465-1,Max memory,,,v,,,
+1-10815352-1,League,,,v,,,
+1-10975034-4,Position,,,v,,,
+1-10960039-6,Position,,,v,,,
+1-10975034-5,Position,,,v,,,
+1-11019212-1,Location,v,,,,,
+1-11094950-1,Location,v,v,,,,
+1-11254821-2,Finishing position,,,v,,,
+1-1131183-2,Metro area,v,,,,,
+1-1139087-2,Location,v,v,,,,
+1-11464746-1,Colours,,,v,,,
+1-11545282-11,Nationality,v,,,,,
+1-11545282-19,Position,,,v,,,
+1-11603006-1,Location,v,v,,,,
+1-1161065-28,Venue,v,v,,,,
+1-11622496-1,Location,v,v,,,,
+1-11622562-1,Location,v,v,,,,
+1-11622840-1,Location,v,v,,,,
+1-11658094-3,Location,v,v,,,,
+1-11677100-15,Hometown,v,v,,,,
+1-11677100-16,Hometown,v,v,,,,
+1-11677100-3,Hometown,v,v,,,,
+1-11677100-18,Hometown,v,v,,,,
+1-11677100-4,Hometown,v,v,,,,
+1-11677691-10,Hometown,v,v,,,,
+1-11677100-8,Hometown,v,v,,,,
+1-11677691-11,Hometown,v,v,,,,
+1-11677691-5,Hometown,v,v,,,,
+1-11677691-3,Hometown,v,v,,,,
+,Position,,,v,,,
+1-11677691-12,Hometown,v,v,,,,
+1-11677760-1,Hometown,v,v,,,,
+1-11677691-9,Hometown,v,v,,,,
+1-11734041-20,Position,,,v,,,
+1-1180228-1,Released,,,v,,v,v
+1-11803648-17,Position,,,v,,,
+1-1183842-1,Location,v,v,,,,
+1-11891841-2,P,,,v,,,
+1-12002388-1,League,,,v,,,
+1-12000368-1,Ranking L.A. (2),,,v,,,
+,World Ranking (1),,,v,,,
+1-1205598-1,Metropolitan Area,v,v,,,,
+1-12095519-1,Origin,v,v,,,,
+,Destination,v,v,,,,
+1-12134383-1,End of term,,,v,,v,v
+1-1213511-5,Nationality,v,,,,,
+1-1213511-7,Position,,,v,,v,
+,Nationality,v,,,,,
+1-1213511-6,Position,,,v,,,
+1-12148147-2,Subjects,,,v,v,,
+1-12193259-1,Season,,,v,,v,v
+1-1222653-10,Currency,,,v,,,
+1-12266757-1,Season,,,v,,v,v
+1-1231316-5,Nation,v,,,,,
+1-12303563-2,Nation,v,,,,,
+1-1231316-7,Location,v,v,,,,
+1-12338595-1,State,v,v,,,,
+1-12379297-1,Power (kW),,,v,,,
+1-12592074-1,Commissioned or completed(*),,,v,,v,v
+1-12679326-1,Party,,,v,,,
+1-12740151-8,L3,,,v,,,
+1-12791809-1,Road Closed,,,v,,v,v
+1-1289860-2,Hometown,v,v,,,,
+1-12962773-1,Position,,,v,,v,
+1-12962773-13,Position,,,v,,v,
+1-12962773-5,Position,,,v,,v,
+1-12983929-1,Net power,,,v,,v,
+1-1322904-1,Release,,,v,,v,v
+1-13258806-2,Result,,,v,,,
+1-1341453-22,Party,,,v,,,
+1-1341472-20,Party,,,v,,,
+1-1341549-33,Party,,,v,,,
+1-1341522-41,Party,,,v,,,
+1-1341568-34,Party,,,v,,,
+1-1341568-6,Party,,,v,,,
+1-1341640-39,Party,,,v,,,
+1-1341663-44,Party,,,v,,,
+1-1341663-33,Party,,,v,,,
+1-1341690-5,Party,,,v,,,
+1-1341707-15,Party,,,v,,,
+1-1341718-14,Party,,,v,,,
+1-1341738-34,Party,,,v,,,
+1-1341865-23,Party,,,v,,,
+1-1341884-19,Party,,,v,,,
+1-1342149-42,Party,,,v,,,
+1-1342315-12,Party,,,v,,,
+1-1353096-1,City of license /Market,v,v,,,,
+1-13555999-1,Gender,,,v,,,
+1-14132239-3,Month,,,v,v,,v
+1-1414743-1,City,v,,,,,
+1-1416612-1,State,v,,,,,
+1-14160327-4,Genre,,,v,,,
+1-14342480-5,Position,,,v,,,
+1-14342592-7,Position,,,v,,,
+1-14345690-2,Finished,,,v,,,
+1-14345690-3,Finished,,,v,,,
+1-14345690-5,Finished,,,v,,,
+1-14407512-27,Nationality,v,,,,,
+1-14407512-4,Nationality,v,,,,,
+1-14562722-2,Region 1,,,v,,v,v
+,Region 4,,,v,,v,v
+1-14624447-24,Position,,,v,,,
+1-14650162-1,Position,,,v,,,
+1-14649522-1,Position,,,v,,,
+1-14655985-1,Position,,,v,,,
+1-1473672-3,Position,,,v,,,
+1-14785903-1,States,v,,,,,
+1-14855908-3,Region 1 (US),,,v,,v,v
+,Region 4,,,v,,v,v
+1-14966667-19,Position,,,v,,,
+1-14981555-1,Distance,,,v,,,
+1-15055594-6,States,v,,,,,
+1-1507423-4,Position,,,v,,,
+1-15346009-1,Location,v,v,,,,
+1-15329030-1,State,v,,,,,
+1-1547951-3,Outcome,,,v,,,
+1-1557974-1,Birthplace,v,v,,,,
+1-15621965-10,Position,,,v,,,
+1-15621965-2,Position,,,v,,,
+1-15740666-6,Last Meeting,,,v,,v,v
+1-15823956-1,Series premiere,,,v,,v,v
+1-1597866-3,First Premiere,,,v,,v,v
+1-1602620-1,Term began,,,v,,v,v
+,Term ended,,,v,,v,v
+1-16046689-29,City,v,,,,,
+1-16078390-2,Location,v,v,,,,
+1-1620397-2,Released,,,v,,v,v
+1-16387953-1,Home team,v,,,,,
+1-16432543-1,Location,v,v,,,,
+1-16441561-5,Position,,,v,,,
+1-1644876-2,Locale,v,v,,,,
+1-16494599-10,Position,,,v,,,
+1-16494599-4,Position,,,v,,,
+1-1652224-5,Reason for change,,,v,,v,v
+1-1656555-1,Ordained Bishop,,,v,,v,v
+,Ordained Priest,,,v,,v,v
+,Vacated throne,,,v,,v,v
+1-16729930-18,Frequency,,,v,,,
+,TDP,,,v,,,
+1-16729930-17,Frequency,,,v,,,
+1-167354-2,LOCATION,v,v,,,,
+1-1682026-3,Headquarters,v,v,,,,
+1-1682026-7,Industry,,,v,v,,
+,Headquarters,v,v,,,,
+1-16849531-2,Species,,,v,,,
+1-16884579-1,Premiere,,,v,,v,v
+1-171361-1,Status,,,v,,,
+1-1717824-1,Province,v,v,,,,
+1-1718013-1,Season finale,,,v,,v,v
+1-17487395-1,Frequency,,,v,,,
+1-17505751-5,Position,,,v,,,
+1-17596418-4,P,,,v,,,
+1-1805191-10,Party,,,v,,,
+1-180802-3,Color,,,v,,,
+1-18159601-1,City,v,v,,,,
+1-18268930-1,Location,v,,,,,
+1-18483171-1,Location,v,v,,,,
+1-18974269-1,Gender,,,v,,,
+1-1921-1,Location,v,v,,,,
+1-19246-2,(up),,,v,,,
+1-19412902-2,Member Association,v,,,,,
+1-1942683-1,House colour,,,v,v,,
+1-19457-1,State/Region,v,v,,,,
+1-19523708-1,Language,,,v,,,
+1-19526911-1,Town,v,v,,,,
+1-1969577-3,Location,v,v,,,,
+1-197060-1,Season finale,,,v,,v,v
+1-1973842-2,Location,v,v,,,,
+1-197446-1,Term ended,,,v,,v,v
+,Term began,,,v,,v,v
+1-1974545-2,Location,v,v,,,,
+1-1974782-1,Location,v,v,,,,
+1-19897896-7,Position,,,v,,,
+1-19930660-1,First broadcast,,,v,,v,v
+1-1997759-1,Last flew,,,v,,v,v
+,First flew,,,v,,v,v
+1-20065425-1,Termination of Mission,,,v,,v,v
+,Presentation of Credentials,,,v,,v,v
+1-2009095-2,Outcome,,,v,,,
+,Championship,,,v,,,
+1-20170644-1,Position,,,v,,,
+1-20183474-1,Place,,,v,,,
+1-20649850-1,Position,,,v,,,
+1-20669355-2,Hometown,v,v,,,,
+1-20745444-1,Result,,,v,,,
+1-20871703-1,Position,,,v,,,
+1-20898602-1,Position,,,v,,,
+1-20928661-1,Result,,,v,,,
+1-21063459-1,Result,,,v,,,
+1-21092444-1,Result,,,v,,,
+1-21094951-1,Result,,,v,,,
+1-211714-2,Season premiere,,,v,,v,v
+1-21269143-1,Result,,,v,,,
+1-21321804-3,Position,,,v,,,
+1-2139023-2,Surface,,,v,,,
+1-21563298-1,Location,v,v,,,,
+1-21564794-3,Sport,,,v,,,
+1-21716139-1,Frequency,,,v,,,
+1-217785-2,Season finale,,,v,,v,v
+1-21795986-1,Withdrawn,,,v,,v,v
+1-21926985-2,Known for,,,v,v,,
+1-2215159-2,Surface,,,v,,,
+1-22170495-7,Original airing,,,v,,v,v
+1-22170495-6,Original airing on E4,,,v,,v,v
+,Original airing on Channel 4,,,v,,v,v
+1-22383603-1,Finish (incl. championship),,,v,,v,v
+,Start (reg. season),,,v,,v,v
+1-22385461-8,End (UTC),,,v,,v,v
+1-22402438-7,Position,,,v,,,
+1-22496374-1,Home Town,v,v,,,,
+1-22771048-2,City/Neighborhood,v,v,,,,
+1-22824297-1,Position,,,v,,,
+1-22837363-1,Season Finale,,,v,,v,v
+,Season Premiere,,,v,,v,v
+1-22858557-1,Outcome,,,v,,,
+1-22903773-2,Location,v,v,,,,
+1-22914245-9,Position,,,v,,,
+1-2293402-2,Type,,,v,,,
+1-23235546-1,Outcome,,,v,,,
+1-23259077-1,Outcome,,,v,,,
+1-23292220-4,First broadcast,,,v,,v,v
+1-23292220-7,First broadcast,,,v,,v,v
+1-23619005-3,Position,,,v,,,
+1-23670057-4,Position,,,v,,,
+1-23670057-5,Position,,,v,,,
+1-23718905-6,City,v,v,,,,
+1-23799417-2,Original airing,,,v,,v,v
+1-23829490-1,Genre,,,v,v,,
+1-23915973-1,Power kW,,,v,,,
+,Frequency,,,v,,,
+1-23963781-2,Position,,,v,,,
+1-23963781-1,Position,,,v,,,
+1-23963781-3,Nationality,v,,,,,
+1-23995075-2,Confederation,,,v,,,
+1-24039173-1,Location,v,v,,,,
+1-24055352-1,Hometown,v,,,,,
+1-240936-2,Region 2 (UK),,,v,,v,v
+,Region 1 (US),,,v,,v,v
+,Region 4 (Australia),,,v,,v,v
+1-24099916-1,TDP,,,v,,,
+1-2419754-1,Location,v,v,,,,
+1-24302700-6,Nationality,v,,,,,
+1-2439728-1,Location,v,v,,,,
+1-24418525-1,Power kW,,,v,,,
+1-24501530-1,Hometown,v,v,,,,
+1-24565004-20,Position,,,v,,,
+1-24638867-6,Outcome,,,v,,,
+1-24798489-2,Location,v,v,,,,
+1-24807406-1,Position,,,v,,,
+1-25017530-6,Position,,,v,,,
+1-25058562-2,Position,,,v,,,
+1-25085059-3,Position,,,v,,,
+1-2508633-11,Position,,,v,,,
+1-2508633-2,Position,,,v,,,
+1-2508633-9,Position,,,v,,,
+1-25129482-1,Location,v,v,,,,
+1-25177625-1,Position,,,v,,,
+1-25429986-1,Position,,,v,,,
